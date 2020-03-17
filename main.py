@@ -1,0 +1,1 @@
+Tylko brak bułeczek!
