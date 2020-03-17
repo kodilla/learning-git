@@ -1,1 +1,1 @@
-Tylko brak bułeczek!
+print("'Martwa papuga' to najlepszy skecz grupy Monty Pythona")
