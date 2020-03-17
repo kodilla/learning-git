@@ -1,1 +1,1 @@
-print("'Hiszpańska inkwizycja' to najlepszy skecz grupy Monty Pythona")
+print("'Ministerstwo Głupich Kroków' to najlepszy skecz grupy Monty Pythona")
